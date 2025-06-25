@@ -66,7 +66,7 @@ Edit
 
 ## 📷 Preview
 
-> ![Smart Loan Calculator](./Screenshot 2025-06-25 134523.png)
+> ![Smart Loan Calculator](./Screenshot.png)
 
 ---
 
