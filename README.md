@@ -2,7 +2,7 @@
 
 A simple and interactive web app to help users calculate their monthly loan payments, total payment, and total interest based on the loan amount, interest rate, and term.
 
-![Loan Calculator Screenshot](./Screenshot 2025-06-25 134523)
+![Loan Calculator Screenshot](./Screenshot 2025-06-25 134523.png)
 
 ---
 
@@ -66,7 +66,7 @@ Edit
 
 ## 📷 Preview
 
-> ![Smart Loan Calculator](./loan-preview.png)
+> ![Smart Loan Calculator](./Screenshot 2025-06-25 134523.png)
 
 ---
 
